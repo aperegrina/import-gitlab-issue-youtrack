@@ -1,0 +1,10 @@
+.idea/workspace.xml
+.idea/libraries
+.idea/dataSources.ids
+.idea/dataSources.xml
+.slcache
+.idea/dataSources.local.xml
+out
+target/*
+out.xml
+.idea/*
