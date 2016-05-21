@@ -22,6 +22,7 @@ public class DateFormat {
             "MM/dd/yyyy'T'HH:mm:ssZ",
             "MM/dd/yyyy'T'HH:mm:ss",
             "yyyy:MM:dd HH:mm:ss",
+            "MM/dd/yyyy",
             "yyyyMMdd", };
     public static Date parse(String d) {
         if (d != null) {

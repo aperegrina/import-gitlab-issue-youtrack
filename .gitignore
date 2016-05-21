@@ -8,3 +8,4 @@ out
 target/*
 out.xml
 .idea/*
+src/org/certuit/google/spreadsheet/resources/*
